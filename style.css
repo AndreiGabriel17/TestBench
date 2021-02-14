@@ -64,7 +64,7 @@ header{
     align-items: center;
     position: relative;
     height: calc(100vh - 8rem);
-    background-image:url("assets/Pagina-Fundal.jpg"); 
+    background-image:url("Pagina-Fundal.jpg"); 
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
